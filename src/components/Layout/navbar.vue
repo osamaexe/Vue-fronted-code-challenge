@@ -50,7 +50,7 @@ export default Vue.extend({
       appTitle: "Awesome App",
       sidebar: false,
       items: [
-        { title: "Loogut", icon: "mdi-logout" }
+        { title: "Logout", icon: "mdi-logout" }
       ],
     };
   },
