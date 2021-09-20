@@ -1,0 +1,30 @@
+.auth-wrapper {
+    display: flex;
+    min-height: calc(var(--vh, 1vh) * 100);
+    width: 100%;
+    flex-basis: 100%;
+    align-items: center;
+    background-color: #f4f5fa;
+  
+    a {
+      text-decoration: unset;
+    }
+  
+    &.auth-v1 {
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      padding: 1.5rem;
+  
+      .auth-inner {
+        width: 28rem;
+        z-index: 1;
+        .auth-card {
+          padding: 0.9375rem 0.875rem;
+        }
+      }
+    }
+  }
+  .theme--light.v-application {
+    background-color: #f4f5fa;
+  }
