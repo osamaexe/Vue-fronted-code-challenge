@@ -1,5 +1,6 @@
 # code-challenge
-
+## Demo
+https://vue-code-challenge.netlify.app/
 ## Project setup
 ```
 npm install
