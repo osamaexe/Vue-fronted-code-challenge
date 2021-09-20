@@ -26,5 +26,7 @@ npm run lint
 * axios 0.21.4
 * vuetify 2.4.0
 * mdi/js 6.1.95
+### Time
+* 10hrs
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
