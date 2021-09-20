@@ -1,7 +1,7 @@
 import axios, { AxiosInstance } from "axios";
 
 const apiClient: AxiosInstance = axios.create({
-  baseURL: "http://localhost:8080",
+  baseURL: "https://vue-code-challenge.netlify.app/",
   headers: {
     "Content-type": "application/json",
   },
